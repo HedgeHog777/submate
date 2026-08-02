@@ -1,6 +1,3 @@
-# submate
-Subscription manager for Android.
-
 # SubMate
 
 A simple Android application for managing subscriptions and recurring payments.
